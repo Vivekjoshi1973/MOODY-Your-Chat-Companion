@@ -4,10 +4,12 @@ A Streamlit chatbot powered by Mistral AI with mood-based personalities — Angr
 
 ## Features
 
-- **3 Mood Modes** — Choose from Angry, Funny, or Sad AI personality
+- **3 Mood Modes + Custom** — Angry, Funny, Sad, or write your own personality prompt
+- **Streaming Responses** — See replies appear token-by-token in real time
+- **Chat Memory** — Conversation persists across sessions (saved locally)
+- **Export Chat** — Download your conversation as a `.txt` file
 - **Dragon Ball Themed UI** — Dark space gradient with gold/orange accents
-- **Reset Chat** — Switch moods anytime
-- **End Conversation** — Cleanly stop the session
+- **Reset / End Controls** — Switch moods or stop anytime
 
 ## Setup
 
